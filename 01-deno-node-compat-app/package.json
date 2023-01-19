@@ -1,0 +1,16 @@
+{
+  "name": "01-deno-app",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "main": "deno run -A main.ts"
+  },
+  "dependencies": {
+    "cowsay": "^1.0",
+    "chalk": "npm:chalk@^1.0",
+    "dax": "deno:dax@~23.0/mod.ts"
+  }
+}

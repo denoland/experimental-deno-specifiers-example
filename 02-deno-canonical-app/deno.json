@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "main": "deno run -A main.ts"
+  },
+  "imports": {
+    "cowsay": "npm:cowsay@^1.0",
+    "chalk": "npm:chalk@^1.0",
+    "dax": "deno:dax@^23.0/mod.ts"
+  }
+}
